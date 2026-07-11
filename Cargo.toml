@@ -1,0 +1,8 @@
+[package]
+name = "github-hosts-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rsdns = { version = "0.23.0", features = ["net-tokio"]}
+tokio = { version = "1.52.3", features = ["full"] }
