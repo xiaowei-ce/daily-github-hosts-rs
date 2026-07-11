@@ -6,7 +6,7 @@ use rsdns::{
 };
 use std::{
     fs::File,
-    io::{Read, Write},
+    io::Write,
     net::SocketAddr,
     str::FromStr,
 };
