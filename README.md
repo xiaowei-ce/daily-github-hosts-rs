@@ -1,3 +1,4 @@
+```
 # GitHub IP hosts Start
 # Last update: 2026-07-11 17:54:38
 # GitHub URL: https://github.com/xiaowei-ce/daily-github-hosts-rs
@@ -190,3 +191,4 @@ favicons.githubusercontent.com 185.199.110.133
 favicons.githubusercontent.com 185.199.108.133
 
 # GitHub IP hosts End
+```
