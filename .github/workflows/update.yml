@@ -38,4 +38,5 @@ jobs:
           fi
 
           git commit -m "chore: update hosts ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))"
+          git pull --rebase origin master
           git push
