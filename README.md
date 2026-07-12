@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/xiaowei-ce/daily-github-hosts-rs/refs/heads/master/hosts
 ```
 # GitHub IP hosts Start
 # Last update: 2026-07-11 18:21:48
