@@ -1,4 +1,8 @@
-https://raw.githubusercontent.com/xiaowei-ce/daily-github-hosts-rs/refs/heads/master/hosts
+Updates daily at 06:00 UTC
+
+
+<https://raw.githubusercontent.com/xiaowei-ce/daily-github-hosts-rs/refs/heads/master/hosts>
+
 ```
 # GitHub IP hosts Start
 # Last update: 2026-07-11 18:21:48
@@ -196,3 +200,4 @@ github-com.s3.amazonaws.com 52.217.172.17
 
 # GitHub IP hosts End
 ```
+
