@@ -26,15 +26,22 @@ async fn main() {
     let mut readme_file = File::create("README.md").unwrap();
 
     let head = format!(
-        "# GitHub IP hosts Start
+"# GitHub IP hosts Start
 # Last update: {} UTC
-# GitHub URL: https://github.com/xiaowei-ce/daily-github-hosts-rs
+# Project URL: https://github.com/xiaowei-ce/daily-github-hosts-rs
 ",
         Utc::now().format("%Y-%m-%d %H:%M:%S")
     );
 
-    writeln!(hosts_file, "{}", head);
-    writeln!(readme_file, "```\n{}", head);
+    writeln!(hosts_file, "{head}");
+
+    writeln!(readme_file,
+"Updates daily at 06:00 UTC
+
+<https://raw.githubusercontent.com/xiaowei-ce/daily-github-hosts-rs/refs/heads/master/hosts>
+```
+{head}"
+);
 
     while let Some(res) = set.join_next().await {
         let tupe = res.unwrap();
