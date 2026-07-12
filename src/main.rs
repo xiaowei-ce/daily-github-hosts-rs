@@ -27,7 +27,7 @@ async fn main() {
 
     let head = format!(
         "# GitHub IP hosts Start
-# Last update: {}
+# Last update: {} UTC
 # GitHub URL: https://github.com/xiaowei-ce/daily-github-hosts-rs
 ",
         Utc::now().format("%Y-%m-%d %H:%M:%S")
