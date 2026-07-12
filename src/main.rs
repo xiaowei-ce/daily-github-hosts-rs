@@ -36,7 +36,7 @@ async fn main() {
     writeln!(hosts_file, "{head}");
 
     writeln!(readme_file,
-"Updates daily at 06:00 UTC
+"Updates daily at 20:30:00 UTC
 
 <https://raw.githubusercontent.com/xiaowei-ce/daily-github-hosts-rs/refs/heads/master/hosts>
 ```

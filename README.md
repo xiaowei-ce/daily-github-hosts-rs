@@ -1,8 +1,9 @@
-Updates daily at 06:00 UTC
+Updates daily at 20:30:00 UTC
 
 <https://raw.githubusercontent.com/xiaowei-ce/daily-github-hosts-rs/refs/heads/master/hosts>
 ```
 # GitHub IP hosts Start
+<<<<<<< HEAD
 # Last update: 2026-07-12 08:26:33 UTC
 # Project URL: https://github.com/xiaowei-ce/daily-github-hosts-rs
 
@@ -47,9 +48,83 @@ camo.githubusercontent.com 185.199.111.133
 camo.githubusercontent.com 185.199.110.133
 camo.githubusercontent.com 185.199.108.133
 camo.githubusercontent.com 185.199.109.133
+=======
+# Last update: 2026-07-12 09:53:52 UTC
+# Project URL: https://github.com/xiaowei-ce/daily-github-hosts-rs
+
+github.global.ssl.fastly.net 128.242.245.212
+gist.github.com 159.24.3.173
+central.github.com 140.82.114.21
+media.githubusercontent.com 185.199.110.133
+media.githubusercontent.com 185.199.109.133
+media.githubusercontent.com 185.199.111.133
+media.githubusercontent.com 185.199.108.133
+avatars0.githubusercontent.com 185.199.109.133
+avatars0.githubusercontent.com 185.199.111.133
+avatars0.githubusercontent.com 185.199.110.133
+avatars0.githubusercontent.com 185.199.108.133
+vstoken.actions.githubusercontent.com 13.107.42.16
+github.io 185.199.110.153
+github.io 185.199.109.153
+github.io 185.199.108.153
+github.io 185.199.111.153
+github.community 140.82.113.18
+objects-origin.githubusercontent.com 140.82.113.22
+origin-tracker.githubusercontent.com 140.82.112.22
+fulcio.githubapp.com 140.82.113.21
+githubstatus.com 185.199.109.153
+githubstatus.com 185.199.108.153
+githubstatus.com 185.199.110.153
+githubstatus.com 185.199.111.153
+raw.githubusercontent.com 185.199.108.133
+raw.githubusercontent.com 185.199.110.133
+raw.githubusercontent.com 185.199.111.133
+raw.githubusercontent.com 185.199.109.133
+github-releases.githubusercontent.com 185.199.108.154
+github-releases.githubusercontent.com 185.199.110.154
+github-releases.githubusercontent.com 185.199.111.154
+github-releases.githubusercontent.com 185.199.109.154
+githubcopilot.com 140.82.114.17
+githubcopilot.com 140.82.112.18
+githubcopilot.com 140.82.113.17
+githubcopilot.com 140.82.113.18
+githubcopilot.com 140.82.112.17
+githubcopilot.com 140.82.114.18
+pipelinesghubeus1.actions.githubusercontent.com 20.242.179.206
+tuf-repo.github.com 185.199.111.153
+tuf-repo.github.com 185.199.108.153
+tuf-repo.github.com 185.199.110.153
+tuf-repo.github.com 185.199.109.153
+release-assets.githubusercontent.com 185.199.111.133
+release-assets.githubusercontent.com 185.199.109.133
+release-assets.githubusercontent.com 185.199.110.133
+release-assets.githubusercontent.com 185.199.108.133
+github.githubassets.com 185.199.109.215
+github.githubassets.com 185.199.111.215
+github.githubassets.com 185.199.110.215
+github.githubassets.com 185.199.108.215
+codeload.github.com 20.205.243.165
+live.github.com 140.82.113.26
+mpsghub.actions.githubusercontent.com 20.22.118.40
+uploads.github.com 20.205.243.161
+objects.githubusercontent.com 185.199.108.133
+objects.githubusercontent.com 185.199.109.133
+objects.githubusercontent.com 185.199.110.133
+objects.githubusercontent.com 185.199.111.133
+results-receiver.actions.githubusercontent.com 140.82.112.22
+github.map.fastly.net 185.199.111.133
+github.map.fastly.net 185.199.109.133
+github.map.fastly.net 185.199.110.133
+github.map.fastly.net 185.199.108.133
+runnerghubeus1.actions.githubusercontent.com 40.88.240.168
+broker.actions.githubusercontent.com 20.85.130.105
+collector.github.com 140.82.114.21
+vscode.dev 150.171.110.65
+>>>>>>> 58a1792 (update README)
 avatars2.githubusercontent.com 185.199.108.133
 avatars2.githubusercontent.com 185.199.110.133
 avatars2.githubusercontent.com 185.199.111.133
+<<<<<<< HEAD
 avatars2.githubusercontent.com 185.199.109.133
 github.githubassets.com 185.199.110.215
 github.githubassets.com 185.199.108.215
@@ -196,6 +271,122 @@ docker.pkg.github.com 140.82.112.34
 gcr.io 142.251.2.82
 copilot-reports.github.com 150.171.109.151
 setup-tools.actions.githubusercontent.com 150.171.109.151
+=======
+npm-beta.pkg.github.com 20.205.243.164
+github-registry-files.githubusercontent.com 185.199.111.154
+github-registry-files.githubusercontent.com 185.199.108.154
+github-registry-files.githubusercontent.com 185.199.110.154
+github-registry-files.githubusercontent.com 185.199.109.154
+education.github.com 140.82.114.22
+launch.actions.githubusercontent.com 140.82.114.21
+raw.github.com 185.199.109.133
+raw.github.com 185.199.108.133
+raw.github.com 185.199.110.133
+raw.github.com 185.199.111.133
+alive.github.com 140.82.113.26
+lfs.github.com 20.205.243.168
+desktop.githubusercontent.com 185.199.109.133
+desktop.githubusercontent.com 185.199.111.133
+desktop.githubusercontent.com 185.199.108.133
+desktop.githubusercontent.com 185.199.110.133
+docker.pkg.github.com 20.205.243.164
+run-actions-1-azure-eastus.actions.githubusercontent.com 20.85.130.105
+github-cloud.s3.amazonaws.com 16.15.229.187
+github-cloud.s3.amazonaws.com 52.217.236.97
+github-cloud.s3.amazonaws.com 16.182.65.129
+github-cloud.s3.amazonaws.com 52.216.56.201
+github-cloud.s3.amazonaws.com 16.182.69.241
+github-cloud.s3.amazonaws.com 16.15.223.26
+github-cloud.s3.amazonaws.com 52.217.168.41
+github-cloud.s3.amazonaws.com 16.15.255.106
+avatars.githubusercontent.com 185.199.110.133
+avatars.githubusercontent.com 185.199.108.133
+avatars.githubusercontent.com 185.199.109.133
+avatars.githubusercontent.com 185.199.111.133
+swift.pkg.github.com 20.205.243.164
+pkg-containers.githubusercontent.com 185.199.109.154
+pkg-containers.githubusercontent.com 185.199.111.154
+pkg-containers.githubusercontent.com 185.199.108.154
+pkg-containers.githubusercontent.com 185.199.110.154
+github-cloud.githubusercontent.com 185.199.110.154
+github-cloud.githubusercontent.com 185.199.111.154
+github-cloud.githubusercontent.com 185.199.109.154
+github-cloud.githubusercontent.com 185.199.108.154
+pipelines.actions.githubusercontent.com 13.107.42.16
+pkg.actions.githubusercontent.com 185.199.108.154
+pkg.actions.githubusercontent.com 185.199.111.154
+pkg.actions.githubusercontent.com 185.199.110.154
+pkg.actions.githubusercontent.com 185.199.109.154
+pypi.pkg.github.com 20.205.243.164
+npm-beta-proxy.pkg.github.com 20.205.243.164
+ghcr.io 20.205.243.164
+avatars1.githubusercontent.com 185.199.111.133
+avatars1.githubusercontent.com 185.199.108.133
+avatars1.githubusercontent.com 185.199.109.133
+avatars1.githubusercontent.com 185.199.110.133
+api.github.com 20.205.243.168
+github-com.s3.amazonaws.com 52.217.236.97
+github-com.s3.amazonaws.com 16.15.255.106
+github-com.s3.amazonaws.com 52.217.168.41
+github-com.s3.amazonaws.com 16.15.229.187
+github-com.s3.amazonaws.com 16.15.223.26
+github-com.s3.amazonaws.com 16.182.69.241
+github-com.s3.amazonaws.com 52.216.56.201
+github-com.s3.amazonaws.com 16.182.65.129
+docker-proxy.pkg.github.com 20.205.243.164
+visualstudio.com 150.171.73.16
+visualstudio.com 150.171.74.16
+api.individual.githubcopilot.com 140.82.112.21
+github.com 20.205.243.166
+maven.pkg.github.com 20.205.243.164
+npm.pkg.github.com 20.205.243.164
+github.blog 192.0.66.2
+user-images.githubusercontent.com 185.199.110.133
+user-images.githubusercontent.com 185.199.111.133
+user-images.githubusercontent.com 185.199.108.133
+user-images.githubusercontent.com 185.199.109.133
+containers.pkg.github.com 20.205.243.164
+productionresultssa1.blob.core.windows.net 20.209.226.1
+productionresultssa1.blob.core.windows.net 20.209.226.129
+productionresultssa1.blob.core.windows.net 20.209.227.33
+copilot-reports.github.com 150.171.110.70
+nuget.pkg.github.com 20.205.243.164
+github.dev 20.43.185.14
+cloud.githubusercontent.com 185.199.111.133
+cloud.githubusercontent.com 185.199.109.133
+cloud.githubusercontent.com 185.199.110.133
+cloud.githubusercontent.com 185.199.108.133
+runner-auth.actions.githubusercontent.com 140.82.114.21
+npmregistryv2prod.blob.core.windows.net 20.60.7.132
+github-cloud.s3.amazonaws.com 52.216.37.121
+github-cloud.s3.amazonaws.com 54.231.195.249
+github-cloud.s3.amazonaws.com 52.217.90.244
+github-cloud.s3.amazonaws.com 54.231.202.65
+github-cloud.s3.amazonaws.com 54.231.133.225
+github-cloud.s3.amazonaws.com 16.15.252.129
+github-cloud.s3.amazonaws.com 16.182.69.41
+github-cloud.s3.amazonaws.com 16.15.213.209
+setup-tools.actions.githubusercontent.com 150.171.110.68
+scanning-api.github.com 140.82.113.21
+api.mcp.github.com 140.82.112.22
+default.exp-tas.com 13.107.5.93
+tokenghub.actions.githubusercontent.com 20.85.108.33
+rubygems.pkg.github.com 20.205.243.164
+copilot-proxy.githubusercontent.com 4.249.131.160
+npm-proxy.pkg.github.com 20.205.243.164
+favicons.githubusercontent.com 185.199.109.133
+favicons.githubusercontent.com 185.199.108.133
+favicons.githubusercontent.com 185.199.111.133
+favicons.githubusercontent.com 185.199.110.133
+camo.githubusercontent.com 185.199.109.133
+camo.githubusercontent.com 185.199.108.133
+camo.githubusercontent.com 185.199.111.133
+camo.githubusercontent.com 185.199.110.133
+timestamp.githubapp.com 140.82.113.21
+gcr.io 108.177.125.82
+pkg.github.com 20.205.243.164
+dependabot-actions.githubapp.com 140.82.112.22
+>>>>>>> 58a1792 (update README)
 
 # GitHub IP hosts End
 ```
